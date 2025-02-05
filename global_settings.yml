@@ -2,3 +2,4 @@ object_type: global_settings
 overrides:
     "aggregates.parquet.compression.type": "gzip"
     "aggregates.create.narrowing.enabled": true
+    "query.cache.entry.sizeLimit": 5000
