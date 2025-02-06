@@ -4,4 +4,4 @@ overrides:
   "aggregates.create.narrowing.enabled": true
   "query.cache.entry.sizeLimit": 5000
   "sparkSql.shufflePartitions.canary_query_role.enabled": true
-  "connection.pool.maxTimeout": "6 hours"
+  "connection.pool.maxTimeout": "7 hours"
