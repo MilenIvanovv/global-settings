@@ -5,4 +5,4 @@ overrides:
   "query.cache.entry.sizeLimit": 5000
   "sparkSql.shufflePartitions.canary_query_role.enabled": true
   "connection.pool.maxTimeout": "12 hours"
-  "connection.groups.testFilesystemTimeout": "14 seconds"
+  "connection.groups.testFilesystemTimeout": "15 seconds"
