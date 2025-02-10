@@ -1,2 +1,1 @@
-# global-settings
-# edit 1
+# global-settings repo
