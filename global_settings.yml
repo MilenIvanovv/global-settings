@@ -5,4 +5,4 @@ overrides:
   "aggregates.create.withoutCompressionEstimate.enabled": true
   "aggregates.create.widening.measure.limit": 21
   "aggregates.dimensional.build": false
-  "aggregates.batch.retry.maxAttemptsPerAggregate": 4
+  "aggregates.batch.retry.maxAttemptsPerAggregate": 5
