@@ -1,2 +1,9 @@
 object_type: global_settings
-
+overrides:
+  "aggregates.parquet.compression.type": "gzip"
+  "aggregates.create.partition.systemDefinedAggregate.threshold": 50
+  "aggregates.create.withoutCompressionEstimate.enabled": true
+  "aggregates.create.widening.measure.limit": 21
+  "aggregates.dimensional.build": false
+  "aggregates.batch.retry.maxAttemptsPerAggregate": 5
+  "aggregates.create.compression.threshold" : 4
