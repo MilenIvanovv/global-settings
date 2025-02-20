@@ -7,3 +7,4 @@ overrides:
   "aggregates.dimensional.build": false
   "aggregates.batch.retry.maxAttemptsPerAggregate": 5
   "aggregates.create.compression.threshold" : 4
+  "query.cache.eviction.entryAge": 60
