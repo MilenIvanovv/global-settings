@@ -4,4 +4,4 @@ overrides:
   "aggregates.create.partition.systemDefinedAggregate.threshold": 50
   "aggregates.create.withoutCompressionEstimate.enabled": true
   "aggregates.create.widening.measure.limit": 20
-  "query.cache.eviction.entryAge": 60
+  "query.cache.eviction.entryAge": 60 minutes
