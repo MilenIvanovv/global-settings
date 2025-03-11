@@ -5,4 +5,4 @@ overrides:
   "aggregates.create.withoutCompressionEstimate.enabled": true
   "aggregates.create.widening.measure.limit": 1061
   "query.cache.eviction.entryAge": 50 minutes
-  "aggregates.configuration.maximum_concurrent_materializatio": true
+  "aggregates.configuration.maximum_concurrent_materializations": true
