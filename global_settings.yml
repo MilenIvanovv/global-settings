@@ -1,10 +1,9 @@
 object_type: global_settings
 overrides:
   "aggregates.parquet.compression.type": "gzip"
-  "aggregates.create.partition.systemDefinedAggregate.threshold": 4000
+  "aggregates.create.partition.systemDefinedAggregate.threshold": true
   "aggregates.create.withoutCompressionEstimate.enabled": true
   "aggregates.create.widening.measure.limit": 1062
-  "some.random.key": true
   "query.cache.eviction.entryAge": 60 minutes
   "aggregates.configuration.maximum_concurrent_materializations": 6
 
