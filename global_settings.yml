@@ -4,4 +4,5 @@ overrides:
   "aggregates.create.withoutCompressionEstimate.enabled": true
   "aggregates.create.widening.measure.limit": 1062
   "query.cache.eviction.entryAge": 60 minutes
+  "some.invalid.key": true
 
