@@ -3,7 +3,7 @@ overrides:
   "aggregates.parquet.compression.type": "gzip"
   "aggregates.create.partition.systemDefinedAggregate.threshold": 4000
   "aggregates.create.withoutCompressionEstimate.enabled": true
-  "aggregates.create.widening.measure.limitt": 1061
+  "aggregates.create.widening.measure.limitt": 1062
   "query.cache.eviction.entryAge": 60 minutes
   "aggregates.configuration.maximum_concurrent_materializations": 6
 
