@@ -2,5 +2,5 @@ object_type: global_settings
 overrides:
   "aggregates.parquet.compression.type": "gzip"
   "impala.shuffle.threshold": 80000
-  "aggregates.configuration.maximum_concurrent_materializations": true
+  "aggregates.configuration.maximum_concurrent_materializations": 7
   "aggregates.create.widening.measure.limit": 1065
