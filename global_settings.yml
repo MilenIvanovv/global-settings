@@ -3,4 +3,8 @@ overrides:
   "aggregates.parquet.compression.type": "gzip"
   "impala.shuffle.threshold": 80000
   "aggregates.configuration.maximum_concurrent_materializations": true
+<<<<<<< HEAD
   "aggregates.create.widening.measure.limit": 1056
+=======
+  "aggregates.create.widening.measure.limit": 1056
+>>>>>>> a700d9f2461a37b7111526d9f318039185c60331
