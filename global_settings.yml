@@ -2,5 +2,4 @@ object_type: global_settings
 overrides:
   "aggregates.parquet.compression.type": "gzip"
   "impala.shuffle.threshold": 80000
-  "aggregates.create.widening.measure.limit": 1073
   "metadataExport.driver.type": engine
