@@ -3,4 +3,3 @@ overrides:
   "aggregates.parquet.compression.type": "gzip"
   "aggregates.tableCache.password": new_password
   actor.system.name: LACHO_PIRATA_S_GOLEMIQ_H
-  redis.password: sandokana
