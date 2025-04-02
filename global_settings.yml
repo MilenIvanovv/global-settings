@@ -3,4 +3,5 @@ overrides:
   "aggregates.parquet.compression.type": "gzip"
   "aggregates.tableCache.password": new_password
   actor.system.name: LACHO
+  AS_ENGINE_FAKE_RESULTS: true
 
