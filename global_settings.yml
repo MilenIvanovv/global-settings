@@ -5,3 +5,4 @@ overrides:
   "metadataExport.driver.type": engine
   "invalid.key": value
   "appDb.password": some_pass
+  "aggregates.tableCache.password": new_password
