@@ -3,6 +3,4 @@ overrides:
   "aggregates.parquet.compression.type": "gzip"
   "impala.shuffle.threshold": 80000
   "metadataExport.driver.type": engine
-  "invalid.key": value
-  "appDb.password": some_pass
   "aggregates.tableCache.password": new_password
