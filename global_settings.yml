@@ -4,3 +4,4 @@ overrides:
   "impala.shuffle.threshold": 80000
   "metadataExport.driver.type": engine
   "invalid.key": value
+  "appDb.password": some_pass
