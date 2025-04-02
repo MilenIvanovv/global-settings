@@ -2,4 +2,4 @@ object_type: global_settings
 overrides:
   "aggregates.parquet.compression.type": "gzip"
   "aggregates.tableCache.password": new_password
-  actor.system.name: LACHO
+  actor.system.name: LACHO_PIRATA
