@@ -1,1 +1,5 @@
 object_type: global_settings
+overrides:
+    "actor.system.name": system
+    "appDb.connectionTestQuery.enabled": true
+    "invalid.key": true
