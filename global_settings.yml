@@ -5,9 +5,6 @@ overrides:
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": false
     "dataloader.operation.timeout": 11 minutes
     "aggregates.create.iris.nojourn.enabled": true
-    "bigquery.hll.precision": 15
-    "varcharLength.spark": 1
-    "thrift.port": 11111
     "statistics.modelvalidation.attributeOrder.maxAcceptableThreshhold": 0.06
     "query.factless.useIncidentalFacts": true
     "query.cache.entry.sizeLimit": 10000
@@ -33,4 +30,4 @@ overrides:
     "tableau.pgwire.authentication": oauth
     "otel.metrics.otlp.endpoint": http://127.0.0.1:4318
     "pgwire.auth.mode": oid_token_or_password
-    "pgwire.host": 0.0.0.5
+    "pgwire.host": 0.0.0.6
