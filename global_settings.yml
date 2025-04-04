@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
-    "actor.system.name": system
+    "actor.system.name": system1
     "appDb.connectionTestQuery.enabled": true
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": false
     "dataloader.operation.timeout": 11 minutes
