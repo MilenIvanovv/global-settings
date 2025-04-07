@@ -3,3 +3,7 @@ overrides:
     "redis.parallelism.cpu_bound": 5
     "soap.marshalling.streaming.chunkTimeout": 6 minutes
     "soap.xpress.enabled": true
+    "pgwire.host": 0.0.0.6
+    "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
+    "appDb.connectionTestQuery.enabled": true
+    "actor.system.name": system
