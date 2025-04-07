@@ -1,6 +1,5 @@
 object_type: global_settings
 overrides:
-    "actor.system.name": system1
-    "appDb.connectionTestQuery.enabled": true
-    "schema.hintedUserDefinedAggregates.nonFactTables.enabled": false
-    "pgwire.host": 0.0.0.6
+    "redis.parallelism.cpu_bound": 5
+    "soap.marshalling.streaming.chunkTimeout": 6 minutes
+    "soap.xpress.enabled": true
