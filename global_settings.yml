@@ -8,4 +8,6 @@ overrides:
     "appDb.connectionTestQuery.enabled": true
     "actor.system.name": system
     "we.are.invalid": 1
-    "sheheshj": false
+    "i.iam.invalid.setting": false
+    "i am inproperly formatted": 5 minutes
+    "atscale.setting": 104
