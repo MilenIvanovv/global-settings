@@ -7,3 +7,5 @@ overrides:
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "appDb.connectionTestQuery.enabled": true
     "actor.system.name": system
+    "we.are.invalid": 1
+    "sheheshj": false
