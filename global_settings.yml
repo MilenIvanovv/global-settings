@@ -10,4 +10,4 @@ overrides:
     "we.are.invalid": 1
     "i.iam.invalid.setting": false
     "i am inproperly formatted": 5 minutes
-    "atscale.setting":
+    "atscale.setting": some value
