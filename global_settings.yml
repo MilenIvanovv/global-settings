@@ -10,4 +10,4 @@ overrides:
     "atscale.setting": some value
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "appDb.connectionTestQuery.enabled": true
-    "actor.system.names": system
+    "actor.system.name": system
