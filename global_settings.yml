@@ -6,3 +6,4 @@ overrides:
     "pgwire.host": 0.0.0.6
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "appDb.connectionTestQuery.enabled": true
+    "some.invalid.setting": 45
