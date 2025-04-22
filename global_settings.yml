@@ -4,7 +4,5 @@ overrides:
     "soap.marshalling.streaming.chunkTimeout": 4 minutes
     "soap.xpress.enabled": true
     "pgwire.host": 0.0.0.6
-    "some.invalid.setting": 1
-    "some.another.invalid.setting": 2
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "appDb.connectionTestQuery.enabled": true
