@@ -1,8 +1,10 @@
 object_type: global_settings
 overrides:
-    "redis.parallelism.cpu_bound": 6
+    "another.invalid.setting": 2
+    "redis.parallelism.cpu_bound": 7
     "soap.marshalling.streaming.chunkTimeout": 6 minutes
     "soap.xpress.enabled": true
+    "invalid.setting": 1
     "pgwire.host": 0.0.0.6
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": true
     "appDb.connectionTestQuery.enabled": true
