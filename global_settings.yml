@@ -1,17 +1,5 @@
 object_type: global_settings
 overrides:
-    "schema.hintedUserDefinedAggregates.nonFactTables.enabled": false
-    "dataloader.operation.timeout": 11 minutes
-    "aggregates.create.iris.nojourn.enabled": true
-    "bigquery.hll.precision": 15
-    "varcharLength.spark": 1
-    "thrift.port": 11111
-    "statistics.modelvalidation.attributeOrder.maxAcceptableThreshhold": 0.06
-    "query.factless.useIncidentalFacts": true
-    "query.cache.entry.sizeLimit": 10000
-    "aggregate.incrementalUpdate.enabled": true
-    "connection.groups.testFilesystemTimeout": 20 seconds
-    "tables.create.partitions.maximumDynamicPartitionsPerNodeFactor": 0.2
     "query.cache.eviction.entryAge": 10 minutes
     "aggregates.parquet.compression.type": snappy
     "query.suppressGrouping": true
