@@ -3,4 +3,4 @@ unique_name: https://github.com/MilenIvanovv/global-settings
 object_type: catalog
 label: https://github.com/MilenIvanovv/global-settings
 aggressive_agg_promotion: false
-build_speculative_aggs: true
+build_speculative_aggs: false
