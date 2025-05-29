@@ -2,5 +2,5 @@ version: 1
 unique_name: global settings
 object_type: catalog
 label: global settings
-aggressive_agg_promotion: false
+aggressive_agg_promotion: true
 build_speculative_aggs: true
