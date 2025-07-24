@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
-  aggregates.parquet.compression.type: gzip1
-  impala.shuffle.threshold: 80000
-  aggregates.configuration.maximum_concurrent_materializations: true
-  aggregates.create.widening.measure.limit: 4
+    "xmla.auth.token.enabled": 45
+    "otel.metrics.otlp.endpoint": http://127.0.0.1:4318
+    "pgwire.auth.mode": oid_token_or_password
+    "pgwire.host": 0.0.0.1
