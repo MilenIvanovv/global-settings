@@ -3,3 +3,4 @@ overrides:
     "xmla.auth.token.enabled": true
     "query.language.mdx.dimquery.result.limit": 11111
     "sml.gsheet.filter.dim_values_warning_threshold": 200
+    "sml.validation.queries.enabled": false
