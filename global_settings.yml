@@ -1,4 +1,6 @@
 object_type: global_settings
 overrides:
     "sml.validation.queries.enabled": false
+    "xmla.cube.lastDataUpdate.enabled": true
+    "xmla.cube.lastDataUpdate.duration": "5 minutes"
 
