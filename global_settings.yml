@@ -1,4 +1,4 @@
 object_type: global_settings
 overrides:
-    "query.result.max_rows": 2000000
+    "query.result.max_rows": 200
 
